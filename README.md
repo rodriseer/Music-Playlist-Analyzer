@@ -30,8 +30,11 @@ To find duplicate tracks within a single playlist:
 Output: A file named dups.txt listing all the duplicate tracks along with the number of occurrences.
 
 # Technologies Used
-Python
+Python.
+
 Matplotlib: For plotting statistics and histograms.
+
 NumPy: For numerical operations.
+
 plistlib: For reading and parsing iTunes playlist files in XML format.
 
